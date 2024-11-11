@@ -1,1 +1,1 @@
-## UofT Radiation HW - Numerical GR
+UofT Radiation HW - Numerical GR
